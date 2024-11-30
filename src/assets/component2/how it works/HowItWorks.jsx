@@ -1,7 +1,7 @@
 import React from 'react'
 import "./howitworks.css"
 // import Button from '../join/Button'
-import Btn from './Btn'
+import Btn from './btn'
 import home from "/src/assets/home.png"
 import welcome from "/src/assets/welcome.png"
 import google from '/src/assets/google.png'
